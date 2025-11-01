@@ -32,7 +32,6 @@ public class WordCRUD implements ICRUD {
         System.out.println("새 단어가 단어장에 추가되었습니다. ");
     }
 
-
     @Override
     public void listAll(){
         System.out.println("---------------------------------");
