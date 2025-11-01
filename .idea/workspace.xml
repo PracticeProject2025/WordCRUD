@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad27376-9ed9-4ae0-a369-da5ca4ccc319" name="Changes" comment="Wrap up all-">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="3ad27376-9ed9-4ae0-a369-da5ca4ccc319" name="Changes" comment="write readme.md">
+      <change afterPath="$PROJECT_DIR$/img/단어 삭제.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/단어 수정.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/단어 저장.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/단어 추가.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/모든 단어 보기.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761988117090</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="write readme.md">
+      <option name="closed" value="true" />
+      <created>1761989584090</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989584090</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +179,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat: 단어 추가 기능" />
     <MESSAGE value="Wrap up all-" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrap up all-" />
+    <MESSAGE value="write readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="write readme.md" />
   </component>
 </project>
