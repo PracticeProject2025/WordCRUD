@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ad27376-9ed9-4ae0-a369-da5ca4ccc319" name="Changes" comment="write readme.md">
-      <change afterPath="$PROJECT_DIR$/img/단어 삭제.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/단어 수정.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/단어 저장.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/단어 추가.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/모든 단어 보기.png" afterDir="false" />
+    <list default="true" id="3ad27376-9ed9-4ae0-a369-da5ca4ccc319" name="Changes" comment="mo readme.md">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +36,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -159,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1761989584090</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="mo readme.md">
+      <option name="closed" value="true" />
+      <created>1761989807196</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989807196</updated>
+    </task>
+    <task id="LOCAL-00005" summary="mo readme.md">
+      <option name="closed" value="true" />
+      <created>1761989851212</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1761989851212</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +191,7 @@
     <MESSAGE value="feat: 단어 추가 기능" />
     <MESSAGE value="Wrap up all-" />
     <MESSAGE value="write readme.md" />
-    <option name="LAST_COMMIT_MESSAGE" value="write readme.md" />
+    <MESSAGE value="mo readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="mo readme.md" />
   </component>
 </project>

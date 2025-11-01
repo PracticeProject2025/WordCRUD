@@ -19,20 +19,19 @@
 프로그램 시작 시 `words.txt` 파일에서 단어 목록을 자동으로 불러옴.
 
 ## 3. 예시 실행화면
-
-<img src="img/모든 단어 보기.png" alt="설명" width="500">
+<br><img src="img/모든 단어 보기.png" alt="설명" width="500">
 <small>list 기능 실행 화면</small><br>
 
-<img src="img/단어 추가.png" alt="설명" width="500">
+<br><img src="img/단어 추가.png" alt="설명" width="500">
 <small>단어 추가 기능 실행 화면</small><br>
 
-<img src="img/단어 수정.png" alt="설명" width="500">
+<br><img src="img/단어 수정.png" alt="설명" width="500">
 <small>단어 수정 실행 화면</small><br>
 
-<img src="img/단어 저장.png" alt="설명" width="500">
+<br><img src="img/단어 저장.png" alt="설명" width="500">
 <small>단어 저장 실행 화면</small><br>
 
-<img src="img/단어 삭제.png" alt="설명" width="500">
+<br><img src="img/단어 삭제.png" alt="설명" width="500">
 <small>단어 삭제 실행 화면</small><br>
 
 ## 4. 클래스 설명
