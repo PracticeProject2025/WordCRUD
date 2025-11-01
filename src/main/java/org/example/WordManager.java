@@ -6,7 +6,6 @@ public class WordManager {
     Scanner s = new Scanner(System.in);
     WordCRUD wordCRUD;
 
-
     WordManager() {
         wordCRUD = new WordCRUD(s);
     }

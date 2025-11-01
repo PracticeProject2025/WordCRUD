@@ -6,8 +6,9 @@ public class Word {
     private String word;
     private String meaning;
 
-    Word(){}
-
+    /*
+     * Word 객체를 생성하는 생성자
+     */
     Word(int id, int level, String word, String meaning) {
         this.id = id;
         this.level = level;
@@ -47,6 +48,9 @@ public class Word {
         this.meaning = meaning;
     }
 
+    /*
+     * 객체 정보를 문자열로 반환
+     */
     @Override
     public String toString() {
         String slevel = "";
